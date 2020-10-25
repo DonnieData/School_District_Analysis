@@ -14,7 +14,10 @@ The purpose of this analysis is to provide a high-level overview of School Distr
 
 
 ## Challenge 
-Data integrity - Due to, certain values in the dataset must be omitted and fill with place holder values. 
+Data integrity - Due toa dta integreity concern, data for Thomas High School 9th grade math and reading scores must be ommited from analyisis. 
+These values will be replaces with place holders in order to maintin the data 
+
+certain values in the dataset must be omitted and fill with place holder values. 
 handling missing values and how analyzing how they alter/ skew data 
  
 
