@@ -16,7 +16,8 @@ Metrics will be dilivered in this format:
 These key metrics can highlight relationships 
 
 ## Challenge 
-Data integrity - handling missing values and how analyzing how they alter/ skew data 
+Data integrity - Due to, certain values in the dataset must be omitted and replaced with the value of NaN
+handling missing values and how analyzing how they alter/ skew data 
  
  
 
