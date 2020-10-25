@@ -1,11 +1,10 @@
 # School_District_Analysis
 
 ## Overview 
-The purpose of this analysis is to provide a high-level overview of School Distric data with a focus on specific key metrics. 
-The delivery and mapping of these key metrics can provdie insight into relationships based around school performance. 
+The purpose of this analysis is to provide a high-level overview of School Distric data through producing various deliverables that highlight key metrics. the mapping of these key metrics will provide insight into the performance of schools within the distrct, namely math and reading scores and thier relationship to other metrics. 
+
 
 ## Deliveravbles 
-Metrics will be dilivered in this format: 
 - The district summary
 - The school summary
 - The top 5 and bottom 5 performing schools, based on the overall passing rate
@@ -13,16 +12,12 @@ Metrics will be dilivered in this format:
 - The average reading score for each grade level from each school
 - The scores by school spending per student, by school size, and by school type
 
-These key metrics can highlight relationships 
 
 ## Challenge 
-Data integrity - Due to, certain values in the dataset must be omitted and replaced with the value of NaN
+Data integrity - Due to, certain values in the dataset must be omitted and fill with place holder values. 
 handling missing values and how analyzing how they alter/ skew data 
  
- 
 
-## Reosurces 
- Python 3.7.7, JupyterLab 2.2.6
 
 
 measurment of performance > school grades...
