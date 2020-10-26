@@ -1,6 +1,24 @@
 # School_District_Analysis
 
 ## Overview 
+The purpose of this analysis is to provide a high-level overview of School Distric data through producing various deliverables that highlight key metrics. the mapping of these key metrics will provide insight into the performance of schools within the distrct, namely math and reading scores and thier relationship to other metrics. 
+
+### Challenge: Data Integrity 
+Due to an integrity concern, data for Thomas High School 9th grade math and reading scores must be ommited. As a result the analysis must be performed again.
+![nan_frame_0] (   ) 
+These values will be replaced with place holders in order to maintin the dataset. I will then perform the same analysis and review the effects of the changes to key metrics. 
+
+## Deliveravbles 
+- The district summary
+- The school summary
+- The top 5 and bottom 5 performing schools, based on the overall passing rate
+- The average math score for each grade level from each school
+- The average reading score for each grade level from each school
+- The scores by school spending per student, by school size, and by school type
+
+
+measurment of performance > school grades...
+
 Here is the list of deliverables for the analysis of the school district: 
 
 -A high-level snapshot of the district's key metrics, presented in a table format
@@ -13,6 +31,39 @@ Here is the list of deliverables for the analysis of the school district:
 - - School performance based on the school size 
 - - School performance based on the type of school
 
-## Reosurces 
- Python 3.7.7, JupyterLab 2.2.6
+## Results
+Below are the results of the analysis before and after omitting values for Thomas High School. 
+
+
+#### Average Math & Reading Scores by Grade 
+ [math_scores_by_grade]
+ 
+
+#### High and Low Performing Schools 
+[high_low_school] , ![reading_before]
+
+[math after]
+
+
+#### Scores by School Size
+
+
+
+#### Scores by School Spending 
+
+
+#### Scores by School Type 
+
+
+
+#### School Summary  
+
+
+
+
+## Summary 
+
+
+
+
 
