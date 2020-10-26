@@ -42,17 +42,12 @@ Below are the results of the analysis before and after omitting values for Thoma
 ![high_low_observatiion](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/high_low_schools_without_9th.png)
 #### Scores by School Size
 ![scoresbyschoolsize](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/score_by_school_size.png)
-
 #### Scores by School Spending 
 ![Scores by School Spending](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/scores_by_school_spending%20.png)
-
 #### Scores by School Type 
 ![Scores by type](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/score_by_school_type.png)
-
 #### School Summary  
 ![Summary](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/school_summary_without_9th.png)
-
-
 ## Summary 
 
 
