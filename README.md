@@ -6,7 +6,7 @@ The purpose of this analysis is to provide a high-level overview of School Distr
 ### Challenge: Data Integrity 
 Due to an integrity concern, data for Thomas High School 9th grade math and reading scores must be ommited. As a result the analysis must be performed again.
 ![nan image](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/without_9th_grade_data/nan_frame_0.png)
-![nan]<img src = "https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/without_9th_grade_data/nan_frame_0.png" height="100" width="100">
+![nan]<img src = "https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/without_9th_grade_data/nan_frame_0.png" height="400" width="500">
 
 
 These values will be replaced with place holders in order to maintin the dataset. I will then perform the same analysis and review the effects of the changes to key metrics. 
