@@ -39,18 +39,15 @@ Below are the results of the analysis before and after omitting values for Thoma
 
 
 #### Average Math & Reading Scores by Grade 
- [math_scores_by_grade]
+![math_score](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/without_9th_grade_data/math_scores_by_grade_without_9th.png), ![reading scorey](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/without_9th_grade_data/reading_scores_by_grade_without_9th.png)
  
 
 #### High and Low Performing Schools 
-[high_low_school] , ![reading_before]
-
-[math after]
-
+![high_low_observatiion](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/without_9th_grade_data/high_low_schools_without_9th.png)
 
 #### Scores by School Size
 
-
+![scoresbyschoolsize](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/without_9th_grade_data/math_scores_by_grade_without_9th.png),
 
 #### Scores by School Spending 
 
