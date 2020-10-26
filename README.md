@@ -57,6 +57,7 @@ Below are the results of the analysis before and after omitting values for Thoma
 
 #### School Summary  
 
+![summary](https://github.com/DonnieData/School_District_Analysis/blob/main/Resources/images/without_9th_grade_data/school_summary_without_9th.png)
 
 
 
