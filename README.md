@@ -27,7 +27,9 @@ These values will be replaced with place holders in order to maintin the dataset
 ## Summary 
 The most prominent changes in analysis results after analyzing the school distrcit data after removing the 9th grade values was found in the school summary. 
 
-The percent of overall student at Thomas High School with a passing score in reading decreased from 97.30% to 69.66%
-The percent of overall student at Thomas High School with a passing score in math decreased from 93.27% to 66.91%
+The percent of overall student at Thomas High School with a passing score in reading decreased from 97.30% to 69.66%.
+The percent of overall student at Thomas High School with a passing score in math decreased from 93.27% to 66.91%.
+
+Other metrics showed minimal change with the omitting of 9th grade data. 
 
 
