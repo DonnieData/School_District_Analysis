@@ -5,7 +5,7 @@ The purpose of this analysis is to provide a high-level overview of School Distr
 
 ### Challenge: Data Integrity 
 Due to an integrity concern, data for Thomas High School 9th grade math and reading scores must be ommited. As a result the analysis must be performed again.
-![image]
+![nan_frame_0] (   ) 
 These values will be replaced with place holders in order to maintin the dataset. I will then perform the same analysis and review the effects of the changes to key metrics. 
 
 ## Deliveravbles 
@@ -34,24 +34,32 @@ Here is the list of deliverables for the analysis of the school district:
 ## Results
 Below are the results of the analysis before and after omitting values for Thomas High School. 
 
-### District 
 
-### School Scores 
+#### Average Math & Reading Scores by Grade 
+ [math_scores_by_grade]
+ 
 
-### High and Low Performing Schools 
+#### High and Low Performing Schools 
+[high_low_school] , ![reading_before]
 
-
-### Scores by School Size
-- Before 
-- After 
-
-### Scores by School Spending 
+[math after]
 
 
-### Scores by School Type 
+#### Scores by School Size
 
 
-### 
+
+#### Scores by School Spending 
+
+
+#### Scores by School Type 
+
+
+
+#### School Summary  
+
+
+
 
 ## Summary 
 
