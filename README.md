@@ -4,7 +4,7 @@
 The purpose of this analysis is to provide a high-level overview of School Distric data through producing various deliverables that highlight key metrics. the mapping of these key metrics will provide insight into the performance of schools within the distrct, namely math and reading scores and thier relationship to other metrics. 
 
 ## Analysis Challenge:
-####Data Integrity 
+#### Data Integrity 
 Due to an integrity concern, data for Thomas High School 9th grade math and reading scores must be ommited. As a result the analysis must be performed again.
 These values will be replaced with place holders in order to maintin the dataset. I will then perform the same analysis and review the effects of the changes to key metrics.
 
